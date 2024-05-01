@@ -45,6 +45,22 @@ class BiologicalSequence(ABC, str):
     def check_alphabet(self) -> bool:
         pass
 
+    @abstractmethod
+    def __len__(self):
+        pass
+        
+    @abstractmethod
+    def __getitem__(self):
+        pass
+    
+    @abstractmethod
+    def __repr__(self):
+        pass
+    
+    @abstractmethod
+    def __str__(self):
+        pass`
+
 
 class NucleicAcidSequence(BiologicalSequence):
     def __init__(self, sequence):
