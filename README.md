@@ -3,9 +3,9 @@
 > This repo contains scripts written during homework tasks assignment
 > for the *Bioinformatics Institute's Python 2023-2024* course
 
-**Contains examples of implementing object-oriented and functional 
-programming, working with external APIs and URL requests, 
-concurrency and code testing to address bioinformatics tasks**
+Contains implementation of **object-oriented and functional 
+programming**, working with **external APIs and URL requests**, 
+**parallel programming** and **code testing** to address bioinformatics tasks
 
 #### Modules:
 - `main.py`: tools for biological sequences and FASTQ data processing, 
@@ -26,6 +26,8 @@ algorithm with multiprocessing computation feature
 
 #### Additionally:
 - `requirements.txt`
+
+
 
 
 > *All the best and take care!* 🐍
