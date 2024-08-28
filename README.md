@@ -1,0 +1,33 @@
+# BioToolbox
+
+> This repo contains scripts written during homeworks
+> for the *Bioinformatics institute's Python 2023-2024* course
+
+Contains implementation of **object-oriented and functional 
+programming**, working with **external APIs and URL requests**, 
+**parallel programming** and **code testing** to address bioinformatics tasks
+
+#### Modules:
+- `main.py`: tools for biological sequences and FASTQ data processing, 
+and logging using the Telegram bot
+- `bio_files_processor.py`: work with FASTA files
+- `custom_random_forest`: custom implementation of the Random Forest ML 
+algorithm with multiprocessing computation feature
+
+
+✨*In the `Showcases.ipynb` you can look at modules usage examples*✨
+
+
+
+#### Unit tests:
+- `test_main.py`
+
+
+
+#### Additionally:
+- `requirements.txt`
+
+
+
+
+> *All the best and take care!* 🐍
