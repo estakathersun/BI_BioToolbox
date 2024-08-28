@@ -1,7 +1,7 @@
 # BioToolbox
 
-> This repo contains scripts written during homework tasks assignment
-> for the *Bioinformatics Institute's Python 2023-2024* course
+> This repo contains scripts written during homeworks
+> for the *Bioinformatics institute's Python 2023-2024* course
 
 Contains implementation of **object-oriented and functional 
 programming**, working with **external APIs and URL requests**, 
